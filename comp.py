@@ -4,7 +4,7 @@ import time
 import random
 
 WIDTH, HEIGHT= 400,400
-COLORS=['red','green', 'blue','pink', 'black','orange','yellow', 'purple','brown','cyan']
+COLORS=['red','green', 'blue','pink', 'black','orange','yellow', 'purple','brown','cyan'] #creates range of 10 colors for the turtle images
 def get_number_of_racers():
     racers=0
     while True:
